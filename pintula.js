@@ -1,7 +1,4 @@
-/*
-Pequeña herramienta para pintar en un canvas. Por dedicarle poco tiempo ha quedado un poco engorroso el código.
-Se podría aprovechar y crear un repo en GitHub y continuar con ella.
-*/
+
 var Pintula = function(){
     this.canvas = undefined;
     this.ctx = undefined;
